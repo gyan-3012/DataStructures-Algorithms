@@ -1,0 +1,10 @@
+Problem :- There is a M * N size floor, we have to find the  maximum length 
+of square Tiles, by using which we can fill the whole floor. What will be the 
+length of the Tiles?
+
+Solution :- The Solution is very simple, what we have to do is that 
+we have to find the maximum number which can devide both of the numbers
+M and N, so for doing this we have a concept of greatest common divisor. 
+There are many methods for calculating the greatest common divisor of 
+highest common factor of two numbers, we will make the program for gcd in 
+the next section.
