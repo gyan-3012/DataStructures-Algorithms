@@ -27,7 +27,7 @@ bool isPrime_eff(int n){
 }
 
 // best solution for checking the number is prime or not
-// Time complexity : O(n) to the power 1/2) but optimized
+// Time complexity : O(n to the power 1/2) but optimized
 bool isPrime_eff_opt(int n){
     if(n==1) return false;
     if(n==2 || n==3) return true;
